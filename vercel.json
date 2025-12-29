@@ -1,5 +1,4 @@
 {
   "buildCommand": "npm run build:tailwind",
-  "outputDirectory": ".",
-  "framework": "static"
+  "outputDirectory": "."
 }
